@@ -1,5 +1,5 @@
 // strip.cpp : Defines the entry point for the console application.
-//
+// Martin Brunn 20150720
 
 #include "stdafx.h"
 
